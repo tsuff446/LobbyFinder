@@ -1,0 +1,46 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: white;
+    color: black;
+    text-align: left;
+}
+h1{
+    text-align: center;
+    color: black;
+    font-size: 48px;
+    text-align: center;
+}
+input[type=button], input[type=submit], input[type=reset] {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #70D457;
+    border: none;
+    color: black;
+    padding: 16px 32px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10%;
+}
+
+#OnlineBox{
+    background-color: #D3D3D3;
+    font-size: 10px;
+    width: 24%;
+    height: 50%;
+    vertical-align: top;
+    padding-top: 10px;
+    float: right;
+}
+#PlayerList{
+    background-color: #E8F0F9;
+    margin: 10px 5px;
+}
+#ArenasBox{
+    background-color: #d3d3d3;
+    display:block;
+    height:60%;
+}
+#Arena{
+    width:30%;
+    height:35%;
+}
